@@ -1,0 +1,8 @@
+Pizza 
+
+1) Open Zomato 
+2) Select restaurant
+3) Select base
+4) select toppings
+5) Pay 
+6) wait for delivery
